@@ -12,7 +12,6 @@ Generate your weather API key from here: https://www.weatherapi.com/
 2. Depicting how it can be used in a weather forecasting Chatbot where user can ask weather forecast about any city in a free flowing format. ChatGPT will extract the city, call the necessary function and pass the City name as argument. And return the answer in an Human Readable Format. 
 
 # Replace the below two variables in the script
-openai.api_key = "YOUR-OPEN-AI-KEY"
-weather_api_key = "Weather-API-KEY"
-And then:
-# python function_calling.py
+1. openai.api_key = "YOUR-OPEN-AI-KEY"
+2. weather_api_key = "Weather-API-KEY"
+3. And then: python function_calling.py
