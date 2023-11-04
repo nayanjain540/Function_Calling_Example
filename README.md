@@ -1,4 +1,4 @@
-# Function_Calling_Example
+# FunctionCalling Example
 This is a simple Python script to depict the implementation of function calling of CHAT GPT
 
 Install requirements
