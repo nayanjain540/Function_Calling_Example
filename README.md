@@ -1,5 +1,5 @@
 # FunctionCalling Example
-This is a simple Python script to depict the implementation of function calling of ChatGPT
+This is a simple Python script to depict the implementation of function calling feature of ChatGPT
 
 Install requirements
 ```
