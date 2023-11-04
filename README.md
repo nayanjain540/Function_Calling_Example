@@ -1,5 +1,5 @@
 # FunctionCalling Example
-This is a simple Python script to depict the implementation of function calling of CHAT GPT
+This is a simple Python script to depict the implementation of function calling of ChatGPT
 
 Install requirements
 ```
@@ -7,7 +7,7 @@ pip install openai
 ```
 
 ```
-Generate your OPEN AI key from here: https://platform.openai.com/
+Generate your OpenAI key from here: https://platform.openai.com/
 
 Generate your weather API key from here: https://www.weatherapi.com/
 ```
